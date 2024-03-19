@@ -1,0 +1,61 @@
+Student Perfomence Insights
+---------------------------
+it is the data analytics reports project, developed by using Microsoft SQL Server database, with Power BI desktop tool as report development tool. 
+
+I involved in the below areas in the project.
+
+1) As it is the new product, Involved in the DB Modeling and Preparing the Entity relation ship diagrams.
+	Data types, One to One, One to Many, Many to Many
+	Normaliztion, Denormalization etc..
+	
+2) Involved in understanding the Reports requirements
+	Involved with the seniors, to understand the user reports.
+	Developed the proto types, and reports
+
+3) Involved in understanding of ETL Procedure( Extract, Transform and Loading data)
+	Understood the ETL Data loading procedure into the Database.
+
+4) Wrote stored procedures to Extract data into Power BI Reports.
+	Developed stored procedures for the Reports
+	Used SQL Joins, Group by, Having select clauses 
+	Developed SQL Functions
+
+5) Developed Power BI Reports by using Power BI desktop tool
+	Developed Power BI Reports
+	Used Power BI Filters, Parameters
+	
+6) Developed Data sets, Dashboards and reports unsing Power BI Desktop.
+	Developed Power BI Data Sets
+	Used various data regions of Power Bi tool
+
+Sprint: 
+
+Standup Call: (Scrum call)
+
+CODE JIRA Tool:
+	EPIC
+	Story
+	Task
+	BUG
+Backlog:
+
+Agile Methodology:
+-----------------
+
+Epic: DB Modeling (26 man working days)
+	1. Identifying entities  -- 10 Days (Story) Rushi
+	2. Identitfying columns -- 10 Days (Story) Mahender
+	3. Identitying column data types -- 2 Days (Story)
+	4. Identitying relation ships -- 2 Days (Story)
+	5. Identitying other constraints -- 2 Days (Story)
+
+Epic: DB Development
+	1. Tables Creation -- 2 Days (Story)
+	2. View cretion -- 5 Days (Story)
+
+500 man working days. (2 1/2)  6 
+
+1. Identifying entities  -- 50 Days (Story) Rushi
+
+
+
